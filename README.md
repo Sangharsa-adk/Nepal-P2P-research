@@ -15,10 +15,7 @@
 
 ## 🚀 Getting Started
 1. Clone repo: `git clone [https://github.com/sangharsa6613/nepal-p2p-research.git]
-2. Open `index.html` in browser
-3. Use demo accounts:
-   - Borrower: borrower@demo.com / demo123
-   - Lender: lender@demo.com / demo123
+2. Open https://sangharsa6613.github.io/Nepal-P2P-research`for demo browser
 
 ## 📞 Contact
 - Email: sangharsa.adhikari@gmail.com
