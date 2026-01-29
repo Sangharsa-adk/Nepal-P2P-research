@@ -15,7 +15,7 @@
 
 ## 🚀 Getting Started
 1. Clone repo: `git clone [https://github.com/sangharsa6613/nepal-p2p-research.git]
-2. Open https://sangharsa6613.github.io/Nepal-P2P-research` for demo browser
+2. Open https://sangharsa6613.github.io/Nepal-P2P-research/` for demo browser
 
 ## 📞 Contact
 - Email: sangharsa.adhikari@gmail.com
