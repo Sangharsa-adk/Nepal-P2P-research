@@ -1,4 +1,4 @@
-# 🇳🇵 Nepal P2P Lending Platform - Master's Thesis Project
+# Nepal P2P Lending Platform - Master's Thesis Project
 
 ## 📋 Project Overview
 - **University:** [Lincol University]
@@ -13,19 +13,13 @@
 3. Build functional prototype
 4. Propose regulatory framework
 
-## 🔗 Quick Links
-- [Project Documentation](docs/PROJECT_OVERVIEW.md)
-- [Research Proposal](docs/RESEARCH_PROPOSAL.md)
-- [Live Demo](https://yourusername.github.io/nepal-p2p)
-- [Progress Timeline](docs/TIMELINE.md)
-
 ## 🚀 Getting Started
-1. Clone repo: `git clone https://github.com/yourusername/nepal-p2p-masters.git`
+1. Clone repo: `git clone [https://github.com/sangharsa6613/nepal-p2p-research.git]
 2. Open `index.html` in browser
 3. Use demo accounts:
    - Borrower: borrower@demo.com / demo123
    - Lender: lender@demo.com / demo123
 
 ## 📞 Contact
-- Email: your.email@university.edu.np
-- LinkedIn: [Your Profile]
+- Email: sangharsa.adhikari@gmail.com
+- LinkedIn:https://www.linkedin.com/in/sangharsa-a-73834a207/
