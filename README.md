@@ -1,7 +1,7 @@
 # Nepal P2P Lending Platform - Master's Thesis Project
 
 ## 📋 Project Overview
-- **University:** [Lincol University]
+- **University:** [Lincoln University]
 - **Student:** [Sangharsa Adhikari]
 - **Supervisor:** [Santosh Dhungana]
 - **Timeline:** [01-01-2026] - [End Date]
