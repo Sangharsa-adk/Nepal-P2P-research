@@ -18,5 +18,5 @@
 2. Open https://sangharsa6613.github.io/Nepal-P2P-research/ for demo browser
 
 ## 📞 Contact
-- Email: sangharsa.adhikari@gmail.com
+- Email: hello@sangharsaadhikari.com.np
 - LinkedIn:https://www.linkedin.com/in/sangharsa-a-73834a207/
