@@ -1,3 +1,5 @@
+This is just a sample of i have been researching
+
 # Nepal P2P Lending Platform - Master's Thesis Project
 
 ## 📋 Project Overview
