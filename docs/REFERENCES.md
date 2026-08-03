@@ -4,7 +4,7 @@
 
 - [Nepal's central bank proposes peer-to-peer lending to support MSMEs growth](https://kathmandupost.com/money/2024/01/30/nepal-s-central-bank-proposes-peer-to-peer-lending-to-support-msmes-growth) - A news article from *The Kathmandu Post* (Jan 30, 2024) detailing the Nepal Rastra Bank's study report on P2P lending, the estimated $3.6 billion financing gap for MSMEs, and the potential for P2P to provide an alternative avenue for credit.
 
-- [Govt bets on P2P lending to expand credit access](https://www.newbusinessage.com/news/48900/govt-bets-on-p2p-lending-to-expand-credit-access/) - An article from *New Business Age* discussing the government's strategy to use P2P lending as a tool to broaden credit access. *(Note: This URL returned a 403 error during retrieval; please verify it is still accessible.)*
+- [Govt bets on P2P lending to expand credit access](https://www.newbusinessage.com/news/48900/govt-bets-on-p2p-lending-to-expand-credit-access/) - An article from *New Business Age* discussing the government's strategy to use P2P lending as a tool to broaden credit access.
 
 - [Nepal Rastra Bank Unveils Monetary Policy for FY 2081/82](https://english.ratopati.com/story/69367/monetary-policy-went-astray-in-the-past-but-now-it-is-back-on-track) - An interview with banking expert Anal Raj Bhattarai on Ratopati. It covers the central bank's new monetary policy and discusses key provisions, including the introduction and rationale behind peer-to-peer lending in Nepal.
 
