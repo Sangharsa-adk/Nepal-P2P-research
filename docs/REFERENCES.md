@@ -20,3 +20,6 @@
 
 # Digital Financial Services (DFS) in Nepal
 - Digital Financial Services in Nepal - A comprehensive report by the IFC (May 2025) prepared in partnership with Nepal Rastra Bank. It details the growth trends, regulatory progress, and sectoral impact of DFS in Nepal, providing a crucial backdrop for understanding the ecosystem in which P2P lending would operate.
+
+# Community & Regional Context
+- Smart Villages in Melamchi Valley? - A case study from the Nepal Study Center (University of New Mexico) proposing an integrated development model combining IT and P2P microfinance in the Melamchi Valley. It provides detailed socio-economic, demographic, and environmental data for the region, offering a practical context for implementing P2P lending.
