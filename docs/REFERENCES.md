@@ -14,8 +14,8 @@
 
 - [Effectiveness of Financial Technology Peer-to-Peer Lending and Online Business Training for Poor Women Microentrepreneurs](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099033023070521210) - A World Bank report (March 2023) providing lessons learned from a pilot in Indonesia. It offers valuable insights into the effectiveness of P2P lending as a tool for women's economic empowerment and financial inclusion.
 
-- [Peer-to-Peer (P2P) Lending Expansion](https://www.adb.org/publications/peer-to-peer-lending-expansion) - An Asian Development Bank (ADB) publication on the expansion of P2P lending. *(Note: This URL returned a 403 error during retrieval; please verify it is still accessible.)*
-
+- [Peer-to-Peer (P2P) Lending Expansion](https://www.adb.org/publications/peer-to-peer-lending-expansion) - An Asian Development Bank (ADB) publication on the expansion of P2P lending.
+- 
 - [P2P Lending: Risks and Business Models](https://www.corporatecomplianceinsights.com/p2p-lending-risks-and-business-models/) - An in-depth analysis from Corporate Compliance Insights (Jan 29, 2019) discussing P2P business models (Notary and Client-Segregated Account), associated risks (credit, conduct, fraud), and the impact on the traditional banking setup.
 
 - [T Rabi Sankar: Fintech & regulation](https://www.bis.org/review/r230110i.htm) - A speech by the Deputy Governor of the Reserve Bank of India (Jan 10, 2023) on the RBI's approach to regulating fintech. It covers key principles for encouraging innovation, ensuring non-disruptive integration, and protecting customers, with specific mentions of P2P lending regulations in India.
